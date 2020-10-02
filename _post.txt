@@ -1,0 +1,4 @@
+---
+title: El Escriba
+layout: post
+---
