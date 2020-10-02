@@ -9,11 +9,11 @@ categories: post
 {%  newthought 'In times past, '%} the data gods, who winked at your obstinate refusal to learn SQL,{% sidenote 'one' 'SQL stands for Structured Query Language. However you choose to say it is the right pronunciation'%} have in these times of data explosion, commanded you to repent and sharpen your query retrieval skills. 
 <!--more-->
 
-You rely on SQL scripts from the IT Department and when you can't get the scripts to run, you have to wait days for help while the programmers at work deal with other pressing tasks.Your work is often delayed and your appraisal ratings plummet. What to do? _Learn SQL_.
+You rely on SQL scripts from the IT Department and when you can't get the scripts to run, you languish for days, waiting for help from the programmers at work, who are busy dealing with other pressing tasks. Your work is often delayed and your appraisal ratings plummet. What to do? _Learn SQL_.
 
 You are a programmer who can develop a working version of any type of application given enough time. You have a good grasp of the *object relational mapper* of your favorite framework - with minimal references to the documentation. One day, the company's most profitable web application is unusually slow because of a sudden increase in signups. Some queries have to be tweaked for optimum performance. The evil day has arrived - you lied to the Human Resources Department that you *know* SQL. You skimmed through some free books you found online and can write fairly complex `select` statements. Although you are a decent programmer, you don't understand `sub-queries` and `joins` give you goose bumps. What to do? _Learn SQL Completely_.
 
-You are a data analyst, scientist or engineer. The world generates massive amounts of data with insights and patterns buried deep in databases, web logs, data silos and websites.You have to wrangle data before you perform analytical work. You took some courses before you got the job, but majority of the time you were writing simple queries with lots of hints provided for you. The honeymoon is over. Those who are ahead in your profession know this stuff real good but you limp along like a three legged horse at the races. _Aha_, you've heard rumors of some complex *voodoo* called `window functions` and `common table expressions` the masters talk about these days. What to do? *Master SQL once and for all.*
+You are a data analyst. The world generates massive amounts of data with insights and patterns buried deep in databases, web logs, data silos and websites.You have to wrangle data before you perform analytical work. You took some courses before you got the job, but majority of the time you were writing simple queries with lots of hints provided for you. The honeymoon is over. Those who are ahead in your profession know this stuff real good but you limp along like a three legged horse at the races. _Aha_, you've heard rumors of some complex *voodoo* called `window functions` and `common table expressions` the masters talk about these days. What to do? *Master SQL once and for all.*
 
 
 ## How you should learn SQL?
@@ -23,6 +23,7 @@ The best way to master any skill is to closely mirror real-world usage when lear
 An oft ignored component of learning is knowing why you want to learn and how much you are willing to sacrifice on the alter of mastery. Learning to ride a bicycle for the occasional trip to the store differs immensely from training to ride at the Olympic Games. If you fail to set your desired goal before you begin, you'll feel immense pain.
 
 For the sake of simplicity, we'll divide intending pupils of SQL craft into 2 groups, listing the resources you are to study to attain mastery whilst explaining the rationale behind each choice. {% sidenote 'two' 'The groups are mutually exclusive - you can work through all the groups in any particular order or select any group you desire.' %}
+
 
 ###  1 - SQL Exploration
 This stage is for those who want a good primer on writing and reading SQL queries. You'd almost never write complex queries on the job and a good working knowledge will be enough for you to get by. Non-technical workers who have to do data analysis, budding programmers and those who have studied SQL in the past but need a refresher will do well to start here. 
@@ -43,22 +44,24 @@ You should work through all the exercises, and study the solutions provided in-d
 
 If you follow the instructions listed above diligently, you'd know half {% sidenote 'five' 'SQL is surprisingly easy to learn and strangely difficult to master. The other half will elude you until you have paid the toll fee of practice and experience. ' %} of what every professional SQL programmer knows.
 
+
 ### 2 - SQL Mastery
 Your goal here is to write SQL to transform data into insights. You will write SQL daily and you are expected to have a decent grasp of the language.
 
 **Recommendation:** <br>
-*[The SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/)* by *[Mode Analytics {% sidenote 'six' 'This is also available for free. A good way to pay back besides sending a thank you mail is to use the Mode platform for your analytics.'%}](https://mode.com/about-us/)*
+*[The SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/)* by *[Mode Analytics ](https://mode.com/about-us/)*
 
 _Why should you study this?_ <br>
 
-This tutorial series takes you by the hand, and leads you up the ladder of competence gently as a master leads a favorite apprentice. You get to learn SQL the professional way, you'll practice solving questions similar to those you will encounter on the job. If you study this tutorial rigorously, you can confidently say you know SQL without the fear of being exposed as a fraud.
+This tutorial {% sidenote 'six' 'This is also available for free. A good way to pay back besides sending a thank you mail is to use the Mode platform for your analytics.'%} series takes you by the hand, and leads you up the ladder of competence gently as a master leads a favorite apprentice. You get to learn SQL the professional way, you'll practice solving questions similar to those you will encounter on the job. If you study this tutorial rigorously, you can confidently say you know SQL without the fear of being exposed as a fraud.
 
 The climax of this tutorial is the section on _Analytics Training_. You are tasked with solving a problem for a fictitious company with problems reversed engineered from real world cases - _investing a drop in user engagement_, _feature experimentation_ and _Alpha/Beta testing_.
 These may sound like technical jargon now, but you'll be having lucid dreams on problems of a similar kind in a matter of days.
 
+
 ## What to do next?
 
-Your education shouldn't end here, underlisted are resources{% sidenote 'seven' 'These are paid courses - but they are worth every cent.'%} that help you improve on your strengths and sharpen any blunt edges on your blade.
+Your education shouldn't end here, underlisted are resources {% sidenote 'seven' 'These are paid courses - but they are worth every cent.'%} that will help you improve on your strengths and sharpen any blunt edges on your blade.
 
 *[Mastery with SQL](https://www.masterywithsql.com/)* by *[Neil Sainsbury](https://www.neilwithdata.com/about)*
 
