@@ -65,24 +65,24 @@ Your education shouldn't end here, underlisted are resources {% sidenote 'seven'
 
 *[Mastery with SQL](https://www.masterywithsql.com/)* by *[Neil Sainsbury](https://www.neilwithdata.com/about)*
 
-{% marginfigure 'mf-id-1' 'assets/img/mastery.png'  'Mastery with SQL' %}
+{% maincolumn 'assets/img/mastery.png'  'Mastery with SQL' %}
 
 
 >A hands-on practical course for anyone who wants to learn modern SQL. Over 60 HD videos and 150 practice exercises from beginner level to advanced, complete with solutions and discussion. Built for the busy learner.
 
 *[The Art of PostgreSQL](https://theartofpostgresql.com/)* by *[Dimitri Fontaine ](https://twitter.com/tapoueh)*
 
-{% marginfigure 'mf-id-3' 'assets/img/art-of-postgresql.png' 'The Art of PostgreSQL' %}
+{% maincolumn 'assets/img/art-of-postgresql.png' 'The Art of PostgreSQL' %}
 
 >The book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries! ...438 pages full of SQL queries...all answering a very clear use-case,in plain English. Every query is explained in details.
 
 
 *[A Curious Moon: Exploring Cassini's Data with PostgreSQL](https://bigmachine.io/products/a-curious-moon/)* by *[Rob Conery](https://twitter.com/robconery)*
 
-{% marginfigure 'mf-id-2' 'assets/img/curious-moon.png' 'A Curious Moon' %}
+{% maincolumn 'assets/img/curious-moon.png' 'A Curious Moon' %}
 
 >You’ll start out with the basics: creating tables and importing data. Soon, however, you’ll be awash in glorious SQL and data..., creating functions, common table expressions and calculating aggregates using window functions ...
 
 
 ## Parting Words
-If you have worked through some or all of the aforementioned resources, you can consider yourself compentent in the art writing SQL and it is certain that you won't be disgraced on the job.
+If you have worked through some or all of the aforementioned resources, you can consider yourself compentent in the art writing SQL and be certain that you won't be disgraced on the job.
