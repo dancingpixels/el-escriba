@@ -1,13 +1,14 @@
 baseurl: 
 title: EL Escriba
-subtitle: Content-centric blogging
+subtitle: blogging
 author: 
 simple_search: http://google.com/search
-description: Essays on Technology and Random Thoughts
+description: Essays on Technology, Armchair Philosophy & Other Random Thoughts
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-permalink: /articles/:short_year/:title
+# permalink: /articles/:short_year/:title
+permalink: /articles/:title
 timezone: Africa/Lagos
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
